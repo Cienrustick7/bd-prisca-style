@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{3E7DBA3A-57CB-4A42-9581-27F59327EA72}" Label="" LastModificationDate="1689939441" Name="Diagramme de classes UML_8" Objects="79" Symbols="18" Target="Analyse" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{3E7DBA3A-57CB-4A42-9581-27F59327EA72}" Label="" LastModificationDate="1689863919" Name="Diagramme de classes UML_8" Objects="79" Symbols="19" Target="Analyse" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,7 +12,7 @@
 <a:Code>Diagramme_de_classes_UML_8</a:Code>
 <a:CreationDate>1689689938</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1689939436</a:ModificationDate>
+<a:ModificationDate>1689863860</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <a:History>ORG {144A8965-0A3F-4437-A725-16877CED40B0}
 DAT 1689689938
@@ -29,8 +29,7 @@ DLD {56C54ED6-A094-4642-B589-24AF6283B5B2}
 DLD {8214FEF2-82C6-4B59-91B6-431B883B1649}
 DLD {21C3AEA4-B49C-4C5C-B2CC-073E0A611501}
 DLD {3071F429-C3C5-46F6-A4E0-CA37D0753DBB}
-DLD {1CCBA98D-7960-4A98-A0BA-168C4C502B77}
-DLD {008BE313-73A0-4A3B-BC1B-2BF53173B6D1}</a:History>
+DLD {1CCBA98D-7960-4A98-A0BA-168C4C502B77}</a:History>
 <a:PackageOptionsText>[FolderOptions]
 
 [FolderOptions\Class Diagram Objects]
@@ -2608,8 +2607,8 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o21">
 <a:CreationDate>1689757621</a:CreationDate>
 <a:ModificationDate>1689804054</a:ModificationDate>
-<a:Rect>((-32175,36696), (-26981,50954))</a:Rect>
-<a:ListOfPoints>((-32175,50954),(-32175,43387),(-26981,43387),(-26981,36696))</a:ListOfPoints>
+<a:Rect>((-32175,36696), (-26981,50475))</a:Rect>
+<a:ListOfPoints>((-32175,50475),(-32175,43387),(-26981,43387),(-26981,36696))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -2629,7 +2628,7 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o24">
 <a:CreationDate>1689862698</a:CreationDate>
 <a:ModificationDate>1689862698</a:ModificationDate>
-<a:Rect>((-51500,-2400), (-50500,5625))</a:Rect>
+<a:Rect>((-52987,-2400), (-49163,5625))</a:Rect>
 <a:ListOfPoints>((-51000,5625),(-51000,-2400))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
@@ -2650,7 +2649,7 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o27">
 <a:CreationDate>1689862786</a:CreationDate>
 <a:ModificationDate>1689863892</a:ModificationDate>
-<a:Rect>((-17475,8475), (-7538,15300))</a:Rect>
+<a:Rect>((-17475,8475), (-7501,15300))</a:Rect>
 <a:ListOfPoints>((-9375,15300),(-9375,8475),(-17475,8475))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
@@ -2671,8 +2670,8 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o29">
 <a:CreationDate>1689863086</a:CreationDate>
 <a:ModificationDate>1689863086</a:ModificationDate>
-<a:Rect>((-26625,54142), (-10800,56490))</a:Rect>
-<a:ListOfPoints>((-26625,55316),(-10800,55316))</a:ListOfPoints>
+<a:Rect>((-26625,54176), (-10800,56524))</a:Rect>
+<a:ListOfPoints>((-26625,55350),(-10800,55350))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -2739,7 +2738,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:CreationDate>1689689938</a:CreationDate>
 <a:ModificationDate>1689804054</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-37799,50891), (-26549,58607))</a:Rect>
+<a:Rect>((-37799,50404), (-26549,59094))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16770222</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -3035,7 +3034,7 @@ DAT 1689689938</a:History>
 <a:Code>administrateur</a:Code>
 <a:CreationDate>1689689938</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1689939441</a:ModificationDate>
+<a:ModificationDate>1689760071</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <a:History>ORG {C84CB87E-4365-4C92-ABBC-F0BEEF1E67BF}
 DAT 1689689938
@@ -3048,7 +3047,7 @@ ATT PIDTF</a:History>
 <a:Code>id_administrateur</a:Code>
 <a:CreationDate>1689689938</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1689939441</a:ModificationDate>
+<a:ModificationDate>1689760071</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <a:History>ORG {82B06D0A-E869-4E60-83CD-857CC57D47E9}
 DAT 1689689938</a:History>
@@ -3082,6 +3081,21 @@ DAT 1689689938</a:History>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
 <o:Attribute Id="o52">
+<a:ObjectID>85CF72E9-8B08-40A5-B66E-DCB73F4111F5</a:ObjectID>
+<a:Name>roles</a:Name>
+<a:Code>roles</a:Code>
+<a:CreationDate>1689689938</a:CreationDate>
+<a:Creator>HP</a:Creator>
+<a:ModificationDate>1689694023</a:ModificationDate>
+<a:Modifier>HP</a:Modifier>
+<a:History>ORG {008BE313-73A0-4A3B-BC1B-2BF53173B6D1}
+DAT 1689689938
+ATT NAME
+ATT CODE</a:History>
+<a:DataType>String</a:DataType>
+<a:Attribute.Visibility>-</a:Attribute.Visibility>
+</o:Attribute>
+<o:Attribute Id="o53">
 <a:ObjectID>AF86BAE1-E9CD-43AE-BBA5-7611F9473FE5</a:ObjectID>
 <a:Name>telephone</a:Name>
 <a:Code>telephone</a:Code>
@@ -3094,7 +3108,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o53">
+<o:Attribute Id="o54">
 <a:ObjectID>6BD6D3EF-03EF-40F0-BB45-8991A0A03EFA</a:ObjectID>
 <a:Name>email</a:Name>
 <a:Code>email</a:Code>
@@ -3109,13 +3123,13 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o54">
-<a:ObjectID>50B4DD08-E9C9-4BF3-B7E6-4D091A4DC687</a:ObjectID>
+<o:Identifier Id="o55">
+<a:ObjectID>641707C5-CDF1-4045-B91C-A36EF3D53BEB</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
-<a:CreationDate>1689939436</a:CreationDate>
+<a:CreationDate>1689760067</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1689939441</a:ModificationDate>
+<a:ModificationDate>1689760071</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
 <o:Attribute Ref="o49"/>
@@ -3123,7 +3137,7 @@ DAT 1689689938</a:History>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o54"/>
+<o:Identifier Ref="o55"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o36">
@@ -3141,7 +3155,7 @@ ATT CODE
 ATT PIDTF</a:History>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o55">
+<o:Attribute Id="o56">
 <a:ObjectID>DF9960DA-CD11-4582-914E-169E14941F1F</a:ObjectID>
 <a:Name>id_models</a:Name>
 <a:Code>id_models</a:Code>
@@ -3156,7 +3170,7 @@ ATT CODE</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o56">
+<o:Attribute Id="o57">
 <a:ObjectID>8EF949D2-CAEF-49F5-A4CA-407A937477BF</a:ObjectID>
 <a:Name>types_models</a:Name>
 <a:Code>types_models</a:Code>
@@ -3171,7 +3185,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o57">
+<o:Identifier Id="o58">
 <a:ObjectID>BBE9014A-F581-42CD-9708-B41C56A2EC98</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3180,12 +3194,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689759888</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o55"/>
+<o:Attribute Ref="o56"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o57"/>
+<o:Identifier Ref="o58"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o37">
@@ -3201,7 +3215,7 @@ DAT 1689689938
 ATT PIDTF</a:History>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o58">
+<o:Attribute Id="o59">
 <a:ObjectID>68F2717C-AA8C-419B-A187-9B31C37A1CEF</a:ObjectID>
 <a:Name>id_mesures</a:Name>
 <a:Code>id_mesures</a:Code>
@@ -3217,7 +3231,7 @@ ATT MAND</a:History>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 <a:Multiplicity>1..1</a:Multiplicity>
 </o:Attribute>
-<o:Attribute Id="o59">
+<o:Attribute Id="o60">
 <a:ObjectID>A07D1E76-CD23-4A46-AC7B-3870FEAF9180</a:ObjectID>
 <a:Name>tour_de_poitrine</a:Name>
 <a:Code>tour_de_poitrine</a:Code>
@@ -3230,7 +3244,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o60">
+<o:Attribute Id="o61">
 <a:ObjectID>F8CCE673-3312-4DF8-A4B9-BC379CADFF5F</a:ObjectID>
 <a:Name>tour_de_hanche</a:Name>
 <a:Code>tour_de_hanche</a:Code>
@@ -3243,7 +3257,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o61">
+<o:Attribute Id="o62">
 <a:ObjectID>D864CD12-8A42-43B2-8244-40CA5ED2A013</a:ObjectID>
 <a:Name>long_pente_d&#39;epaule</a:Name>
 <a:Code>longueur_pente_d_epaule</a:Code>
@@ -3256,7 +3270,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o62">
+<o:Attribute Id="o63">
 <a:ObjectID>783B6A89-8F37-4DCA-B617-08550DBA1A23</a:ObjectID>
 <a:Name>long_taille_pente</a:Name>
 <a:Code>long_taille_pente</a:Code>
@@ -3269,7 +3283,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o63">
+<o:Attribute Id="o64">
 <a:ObjectID>5F8EAEA7-A061-42A8-8507-2600CB0DA6E8</a:ObjectID>
 <a:Name>long_genoux</a:Name>
 <a:Code>long_genoux</a:Code>
@@ -3282,7 +3296,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o64">
+<o:Attribute Id="o65">
 <a:ObjectID>FB10FD15-3E0A-4457-9363-06E920C1CB09</a:ObjectID>
 <a:Name>carrure_devant</a:Name>
 <a:Code>carrure_devant</a:Code>
@@ -3297,7 +3311,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o65">
+<o:Identifier Id="o66">
 <a:ObjectID>943B85BB-DA69-4994-A5CD-2F40BA19FFD3</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3306,12 +3320,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689760018</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o58"/>
+<o:Attribute Ref="o59"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o65"/>
+<o:Identifier Ref="o66"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o38">
@@ -3329,7 +3343,7 @@ ATT NAME
 ATT CODE</a:History>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o66">
+<o:Attribute Id="o67">
 <a:ObjectID>3F9C3D2B-062A-4C52-AC71-2E309B78BB3A</a:ObjectID>
 <a:Name>id_utilisateur</a:Name>
 <a:Code>id_utilisateur</a:Code>
@@ -3345,7 +3359,7 @@ ATT CODE</a:History>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 <a:Multiplicity>1..1</a:Multiplicity>
 </o:Attribute>
-<o:Attribute Id="o67">
+<o:Attribute Id="o68">
 <a:ObjectID>E985D4CF-248D-44F7-A686-969C8CB2BC84</a:ObjectID>
 <a:Name>nom</a:Name>
 <a:Code>nom</a:Code>
@@ -3358,7 +3372,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o68">
+<o:Attribute Id="o69">
 <a:ObjectID>C4A04AF8-DBE1-4357-B5B3-68FE9753A977</a:ObjectID>
 <a:Name>prenom</a:Name>
 <a:Code>prenom</a:Code>
@@ -3371,7 +3385,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o69">
+<o:Attribute Id="o70">
 <a:ObjectID>2BD020EF-4194-40C0-8950-AA29173FACB2</a:ObjectID>
 <a:Name>adresse</a:Name>
 <a:Code>adresse</a:Code>
@@ -3384,7 +3398,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o70">
+<o:Attribute Id="o71">
 <a:ObjectID>DDFA0319-7016-432C-B1F7-59CC949D68A1</a:ObjectID>
 <a:Name>telephone</a:Name>
 <a:Code>telephone</a:Code>
@@ -3397,7 +3411,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o71">
+<o:Attribute Id="o72">
 <a:ObjectID>7500D1E8-99E3-44A2-A19F-2D78D435F88C</a:ObjectID>
 <a:Name>email</a:Name>
 <a:Code>email</a:Code>
@@ -3410,7 +3424,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o72">
+<o:Attribute Id="o73">
 <a:ObjectID>6F2423F5-1D87-4DCA-82F7-897F17F309A3</a:ObjectID>
 <a:Name>roles</a:Name>
 <a:Code>roles</a:Code>
@@ -3423,7 +3437,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o73">
+<o:Identifier Id="o74">
 <a:ObjectID>CE451D93-DC57-4FAF-B9FC-8C2A98947115</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3432,12 +3446,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689862665</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o66"/>
+<o:Attribute Ref="o67"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o73"/>
+<o:Identifier Ref="o74"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o39">
@@ -3453,7 +3467,7 @@ DAT 1689689938
 ATT PIDTF</a:History>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o74">
+<o:Attribute Id="o75">
 <a:ObjectID>F06D6FD4-43D8-418B-9516-79A0D1003FBC</a:ObjectID>
 <a:Name>id_rendez_vous</a:Name>
 <a:Code>id_rendez_vous</a:Code>
@@ -3467,7 +3481,7 @@ DAT 1689689938</a:History>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 <a:Multiplicity>1..1</a:Multiplicity>
 </o:Attribute>
-<o:Attribute Id="o75">
+<o:Attribute Id="o76">
 <a:ObjectID>81EE1F67-56A0-4213-8D4A-0E592EEFBAB7</a:ObjectID>
 <a:Name>date depot</a:Name>
 <a:Code>date_depot</a:Code>
@@ -3480,7 +3494,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o76">
+<o:Attribute Id="o77">
 <a:ObjectID>E74E27AE-07D1-41FA-868A-BE3BF27DE1B2</a:ObjectID>
 <a:Name>date livraison</a:Name>
 <a:Code>date_livraison</a:Code>
@@ -3495,7 +3509,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o77">
+<o:Identifier Id="o78">
 <a:ObjectID>B1EDB307-B36A-43E7-9901-1203649690F1</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3504,12 +3518,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689759970</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o74"/>
+<o:Attribute Ref="o75"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o77"/>
+<o:Identifier Ref="o78"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o40">
@@ -3527,7 +3541,7 @@ ATT CODE
 ATT PIDTF</a:History>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o78">
+<o:Attribute Id="o79">
 <a:ObjectID>73C9CA02-D767-4F0C-8F93-AF06CBD6CC48</a:ObjectID>
 <a:Name>id_depenses</a:Name>
 <a:Code>id_depenses</a:Code>
@@ -3542,7 +3556,7 @@ ATT CODE</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o79">
+<o:Attribute Id="o80">
 <a:ObjectID>D2773B0D-3BCD-4A19-8C6A-9A3A33C7AAA6</a:ObjectID>
 <a:Name>achats_materiels</a:Name>
 <a:Code>achats_materiels</a:Code>
@@ -3558,7 +3572,7 @@ ATT DTTP</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o80">
+<o:Attribute Id="o81">
 <a:ObjectID>1BCA441C-62F8-4762-A390-5B758E8E1E90</a:ObjectID>
 <a:Name>depenses_effectuez</a:Name>
 <a:Code>depenses_effectuez</a:Code>
@@ -3571,7 +3585,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o81">
+<o:Attribute Id="o82">
 <a:ObjectID>4B34C8C1-44E9-48CA-9A4D-E9BB104BF12F</a:ObjectID>
 <a:Name>date_sortie</a:Name>
 <a:Code>date_sortie</a:Code>
@@ -3584,7 +3598,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o82">
+<o:Identifier Id="o83">
 <a:ObjectID>74C04BBE-32CC-4035-898B-F206574B8B87</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3593,12 +3607,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689804740</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o78"/>
+<o:Attribute Ref="o79"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o82"/>
+<o:Identifier Ref="o83"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o41">
@@ -3611,7 +3625,7 @@ DAT 1689689938</a:History>
 <a:Modifier>HP</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o83">
+<o:Attribute Id="o84">
 <a:ObjectID>F9153659-54E8-4A80-9AFE-28BE69435E29</a:ObjectID>
 <a:Name>id_paiement</a:Name>
 <a:Code>id_paiement</a:Code>
@@ -3622,7 +3636,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o84">
+<o:Attribute Id="o85">
 <a:ObjectID>766CA18A-3A94-4041-95A2-DB577276D3DC</a:ObjectID>
 <a:Name>avance</a:Name>
 <a:Code>avance</a:Code>
@@ -3633,7 +3647,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o85">
+<o:Attribute Id="o86">
 <a:ObjectID>EA073534-91E6-417B-8388-D91718A7B6AB</a:ObjectID>
 <a:Name>date</a:Name>
 <a:Code>date</a:Code>
@@ -3646,7 +3660,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o86">
+<o:Identifier Id="o87">
 <a:ObjectID>1239061C-D12D-4399-AC52-518ED211964E</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3655,12 +3669,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689759864</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o83"/>
+<o:Attribute Ref="o84"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o86"/>
+<o:Identifier Ref="o87"/>
 </c:PrimaryIdentifier>
 </o:Class>
 <o:Class Id="o42">
@@ -3673,7 +3687,7 @@ DAT 1689689938</a:History>
 <a:Modifier>HP</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
-<o:Attribute Id="o87">
+<o:Attribute Id="o88">
 <a:ObjectID>07965413-C67F-4AE3-B56C-FEC69AD54FB7</a:ObjectID>
 <a:Name>id_personnels</a:Name>
 <a:Code>id_personnels</a:Code>
@@ -3684,7 +3698,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o88">
+<o:Attribute Id="o89">
 <a:ObjectID>465056BA-11A3-4D1E-9BE5-EED09C666A70</a:ObjectID>
 <a:Name>nom</a:Name>
 <a:Code>nom</a:Code>
@@ -3695,7 +3709,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o89">
+<o:Attribute Id="o90">
 <a:ObjectID>2184F9DE-1C3F-43FB-B8CA-8B5747FD0F59</a:ObjectID>
 <a:Name>prenom</a:Name>
 <a:Code>prenom</a:Code>
@@ -3706,7 +3720,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o90">
+<o:Attribute Id="o91">
 <a:ObjectID>B1A6C827-CB75-4A27-ABE6-4EA8FE032243</a:ObjectID>
 <a:Name>adresse</a:Name>
 <a:Code>adresse</a:Code>
@@ -3717,7 +3731,7 @@ DAT 1689689938</a:History>
 <a:DataType>String</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o91">
+<o:Attribute Id="o92">
 <a:ObjectID>5FD3EE85-F620-408E-A48E-44412516F7BC</a:ObjectID>
 <a:Name>telephone</a:Name>
 <a:Code>telephone</a:Code>
@@ -3728,7 +3742,7 @@ DAT 1689689938</a:History>
 <a:DataType>int</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
-<o:Attribute Id="o92">
+<o:Attribute Id="o93">
 <a:ObjectID>0D9B6F73-BB1F-4881-AA85-9C93AFA0012A</a:ObjectID>
 <a:Name>email</a:Name>
 <a:Code>email</a:Code>
@@ -3741,7 +3755,7 @@ DAT 1689689938</a:History>
 </o:Attribute>
 </c:Attributes>
 <c:Identifiers>
-<o:Identifier Id="o93">
+<o:Identifier Id="o94">
 <a:ObjectID>33B86ACD-448B-4A1B-AE27-F07EA8CA5034</a:ObjectID>
 <a:Name>Identifiant_1</a:Name>
 <a:Code>Identifiant_1</a:Code>
@@ -3750,12 +3764,12 @@ DAT 1689689938</a:History>
 <a:ModificationDate>1689863054</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Identifier.Attributes>
-<o:Attribute Ref="o87"/>
+<o:Attribute Ref="o88"/>
 </c:Identifier.Attributes>
 </o:Identifier>
 </c:Identifiers>
 <c:PrimaryIdentifier>
-<o:Identifier Ref="o93"/>
+<o:Identifier Ref="o94"/>
 </c:PrimaryIdentifier>
 </o:Class>
 </c:Classes>
@@ -3932,7 +3946,7 @@ ATT MULB</a:History>
 </o:Association>
 </c:Associations>
 <c:TargetModels>
-<o:TargetModel Id="o94">
+<o:TargetModel Id="o95">
 <a:ObjectID>73B707AB-2636-4817-8A9D-6F7A34C075A8</a:ObjectID>
 <a:Name>Analyse</a:Name>
 <a:Code>Analysis</a:Code>
@@ -3947,7 +3961,7 @@ ATT MULB</a:History>
 <o:Shortcut Ref="o5"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o95">
+<o:TargetModel Id="o96">
 <a:ObjectID>BB240D34-7953-4C86-A9DB-1E862C267715</a:ObjectID>
 <a:Name>Diagramme de classes UML_1</a:Name>
 <a:Code>Diagramme_de_classes_UML_1</a:Code>
@@ -3963,7 +3977,7 @@ ATT MULB</a:History>
 <o:Shortcut Ref="o4"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o96">
+<o:TargetModel Id="o97">
 <a:ObjectID>FD99835C-80BE-4DB5-9DE2-09B8AFCE482B</a:ObjectID>
 <a:Name>Diagramme de classes UML_9</a:Name>
 <a:Code>Diagramme_de_classes_UML_9</a:Code>
